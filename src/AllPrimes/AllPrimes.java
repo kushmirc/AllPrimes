@@ -9,7 +9,6 @@ public class AllPrimes {
             return false;
         }
     for (int i = 2; i < number; i++) {
-
         if (number % i == 0) {
             return false;
         }
@@ -27,9 +26,9 @@ public class AllPrimes {
     }
     public static void main(String[] args) {
         AllPrimes pr = new AllPrimes();
-        System.out.println(pr.isPrime(14));
+        System.out.println(pr.isPrime(2));
 
-        int[] numbers = {6, 29, 28, 33, 11, 100, 101, 43, 89};
+        int[] numbers = {6, 28, 33, 11, 13, 101, 43, 89};
         System.out.println(pr.onlyPrimes(numbers));
     }
 }

@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1661527180245</updated>
-      <workItem from="1661527182282" duration="4837000" />
+      <workItem from="1661527182282" duration="8045000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1661527403019</created>
@@ -82,7 +82,28 @@
       <option name="project" value="LOCAL" />
       <updated>1661531077286</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create onlyPrimes method to test for primes in a given array">
+      <created>1661532616522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661532616522</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create an array of integers called numbers to pass to the allPrimes method">
+      <created>1661532716462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661532716462</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Print the result of calling onlyPrimes on pr object, passing the numbers array">
+      <created>1661532786821</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661532786821</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +125,9 @@
     <MESSAGE value="Add README" />
     <MESSAGE value="Add isPrime method with conditional to test if a given number is prime or not" />
     <MESSAGE value="Create first instance, and call the isPrime method on it" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create first instance, and call the isPrime method on it" />
+    <MESSAGE value="Create onlyPrimes method to test for primes in a given array" />
+    <MESSAGE value="Create an array of integers called numbers to pass to the allPrimes method" />
+    <MESSAGE value="Print the result of calling onlyPrimes on pr object, passing the numbers array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Print the result of calling onlyPrimes on pr object, passing the numbers array" />
   </component>
 </project>
